@@ -3,5 +3,4 @@ numpy
 streamlit
 matplotlib
 opencv-python
-python3-opencv
 libgl1-mesa-glx
