@@ -3,3 +3,4 @@ numpy
 streamlit
 matplotlib
 opencv-python
+streamlit_webrtc
